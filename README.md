@@ -1,5 +1,4 @@
 # Cubic-Smoothing-Spline-MATLAB
-# csaps_matlab.m
 
 ## Files Used
 - csaps_matlab.m
